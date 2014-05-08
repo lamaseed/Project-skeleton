@@ -3,8 +3,8 @@
  *
  * Project Authors:
  * 	Zacharopoulos 		Georgios
- * 	Karkanis 					Iosif
- *	Ntounas						Georgios
+ * 	Karkanis 		Iosif
+ *	Ntounas			Georgios
  *	Stamatakopoulos		Panagiotis
  */
 
